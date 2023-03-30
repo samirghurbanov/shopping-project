@@ -1,0 +1,24 @@
+.home{
+    padding: 300px 0;
+    background-image: url('../images//homepage.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.shop-btn{
+    background: #9D50BB;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #6E48AA, #9D50BB);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #6E48AA, #9D50BB); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+color: white;
+border-radius: 30px;
+padding: 12px 24px;
+text-decoration: none;
+margin-top: 20px;
+display: inline-block;
+}
+.shop-btn:hover{
+color: white;
+}
+.homebox{
+    background: linear-gradient(rgb(255 255 255 /40%) 0 0);
+}

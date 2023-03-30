@@ -1,0 +1,12 @@
+{
+    "menu" : [
+     {
+         "link" : "Home",
+         "path" : "/"
+     },
+     {
+         "link" : "Collections",
+         "path" : "/collections"
+     }
+    ]
+ }
