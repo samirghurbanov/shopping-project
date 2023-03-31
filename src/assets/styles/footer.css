@@ -6,9 +6,13 @@ background-size: cover;
 padding: 60px 20px;
 }
 .footer a{
-    color: #000;
+    color: #ffffff;
     text-decoration: none;
 }
 .footer a:hover{
-    color: black;
+    color: rgb(255, 255, 255);
+}
+
+.margintop{
+    margin-top: 180px;
 }
